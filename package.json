@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"unity": "2023.1",
 	"dependencies": {
-		"com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git"
+		"com.endel.nativewebsocket": "1.1.4"
 	},
 	"repository": {
 		"type": "git",
