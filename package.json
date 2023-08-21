@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"unity": "2023.1",
 	"dependencies": {
-		"com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm"
+		"com.endel.nativewebsocket": "https://github.com/colyseus/colyseus-unity-sdk/releases/tag/0.15.4"
 	},
 	"repository": {
 		"type": "git",
