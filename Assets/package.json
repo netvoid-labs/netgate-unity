@@ -2,7 +2,7 @@
 	"name": "com.netvoid.netgate",
 	"version": "1.0.0",
 	"description": "NetGate client for Unity",
-	"license": "Apache 2.0",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/netvoid-labs/netgate-unity.git"
@@ -18,7 +18,7 @@
 		"websocket"
 	],
 	"displayName": "NetGate Client",
-	"unity": "2020.1",
+	"unity": "2023.1",
 	"dependencies": {
 		"com.endel.nativewebsocket": "1.1.4"
 	}
