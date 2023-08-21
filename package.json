@@ -1,6 +1,6 @@
 {
 	"name": "com.netvoid.netgate",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"displayName": "NetGate SDK",
 	"description": "NetGate SDK for Unity",
 	"license": "MIT",
