@@ -1,0 +1,25 @@
+{
+	"name": "com.netvoid.netgate",
+	"version": "1.0.0",
+	"description": "NetGate client for Unity",
+	"license": "Apache 2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/netvoid-labs/netgate-unity.git"
+	},
+	"author": {
+		"name": "Netvoid Labs",
+		"email": "contact@netvoid.io",
+		"url": "https://netvoid.io/"
+	},
+	"keywords": [
+		"multiplayer",
+		"online",
+		"websocket"
+	],
+	"displayName": "NetGate Client",
+	"unity": "2020.1",
+	"dependencies": {
+		"com.endel.nativewebsocket": "1.1.4"
+	}
+}
